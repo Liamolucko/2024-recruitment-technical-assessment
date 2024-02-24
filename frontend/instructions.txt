@@ -1,2 +1,5 @@
 Please detail the instructions to view your solution here:
 
+- Install Deno (https://docs.deno.com/runtime/manual/getting_started/installation)
+- Run `deno task start`
+- Go to http://localhost:8000
